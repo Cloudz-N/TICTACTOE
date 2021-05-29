@@ -1,0 +1,15 @@
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.exe
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.deps.json
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.runtimeconfig.json
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.runtimeconfig.dev.json
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.dll
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\bin\Debug\netcoreapp3.1\TICTACTOE.pdb
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.csproj.AssemblyReference.cache
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.AssemblyInfoInputs.cache
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.AssemblyInfo.cs
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.csproj.CoreCompileInputs.cache
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.dll
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.pdb
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.genruntimeconfig.cache
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.Form1.resources
+C:\Users\Nheil\Documents\OOP_CODE_CALCULATOR\TICTACTOE\TICTACTOE\TICTACTOE\obj\Debug\netcoreapp3.1\TICTACTOE.csproj.GenerateResource.cache
