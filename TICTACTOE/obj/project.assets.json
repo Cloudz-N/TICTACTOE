@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nheil\\Documents\\OOP_CODE_CALCULATOR\\TICTACTOE\\TICTACTOE\\TICTACTOE\\TICTACTOE.csproj",
+      "projectUniqueName": "C:\\Users\\Nheil\\Documents\\OOP_CODE_CALCULATOR\\Project\\TicTacToe\\TICTACTOE\\TICTACTOE\\TICTACTOE.csproj",
       "projectName": "TICTACTOE",
-      "projectPath": "C:\\Users\\Nheil\\Documents\\OOP_CODE_CALCULATOR\\TICTACTOE\\TICTACTOE\\TICTACTOE\\TICTACTOE.csproj",
+      "projectPath": "C:\\Users\\Nheil\\Documents\\OOP_CODE_CALCULATOR\\Project\\TicTacToe\\TICTACTOE\\TICTACTOE\\TICTACTOE.csproj",
       "packagesPath": "C:\\Users\\Nheil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nheil\\Documents\\OOP_CODE_CALCULATOR\\TICTACTOE\\TICTACTOE\\TICTACTOE\\obj\\",
+      "outputPath": "C:\\Users\\Nheil\\Documents\\OOP_CODE_CALCULATOR\\Project\\TicTacToe\\TICTACTOE\\TICTACTOE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nheil\\AppData\\Roaming\\NuGet\\NuGet.Config",

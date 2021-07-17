@@ -97,9 +97,8 @@ namespace TICTACTOE
 
         private void Clear_Click(object sender, EventArgs e)
         {
-            Xscore.Clear();
-            Oscore.Clear();
-            Cscores();
+            Xscore.Text = "0";
+            Oscore.Text = "0";
         }
 
         private void newgame()
